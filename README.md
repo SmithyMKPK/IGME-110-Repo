@@ -26,5 +26,5 @@ and display images in a markdown document?
 ---
 
 ### IV. Other
-![Placeholder]()
+![Placeholder](Dopey4.JPG.webp)
 :joy:
